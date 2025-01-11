@@ -13,7 +13,7 @@ browser-cookie3
 # Builder
 colorama
 customtkinter
-nuitka
+nuitka==2.3.11
 packaging
 pillow
 pycryptodomex
